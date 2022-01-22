@@ -1,0 +1,293 @@
+The Wordle will end on 2027-10-20
+Loaded 12972 words, which has 7632 unique letter sets
+
+All solutions for words that are scheduled to win wordle one day:
+  Legend:
+  Word1, [Word2, Word2Anagram] -> Can only leave Word3
+
+golem, huias -> crypt
+[alone, anole], situp -> myrrh
+pilot, [aunes, usnea] -> myrrh
+gouge, hails -> crypt
+[suing, using], haole -> crypt
+[aides, aside, ideas], [ghoul, lough] -> crypt
+[pinot, pinto, piton, point, potin], salue -> myrrh
+[nutso, snout, stoun, tonus, touns], [pilae, pilea] -> myrrh
+[lovie, olive, voile], saugh -> crypt
+[ehing, hinge, neigh], aulos -> crypt
+[atone, oaten], [pilus, pulis] -> myrrh
+input, aloes -> myrrh
+[setup, stupe, upset], aloin -> myrrh
+[alien, aline, anile, elain, liane], [pouts, spout, stoup] -> myrrh
+[alien, aline, anile, elain, liane], sough -> crypt
+[unlit, until], [paseo, psoae] -> myrrh
+[notes, onset, seton, steno, stone, tones], pilau -> myrrh
+[alike, alkie], sough -> crypt
+[antis, natis, saint, satin, stain, tains, tians, tinas], [loupe, poule] -> myrrh
+bough, aisle -> crypt
+[equal, quale], shogi -> crypt
+[suent, tunes, unset], [apiol, paoli, pilao] -> myrrh
+[inset, neist, nites, senti, sient, stein, teins, tines], pulao -> myrrh
+[lipes, piles, plies, slipe, speil, spiel, spile], tauon -> myrrh
+[inept, nepit], aulos -> myrrh
+[unite, untie], [opals, salop] -> myrrh
+[eusol, louse, ousel], [inapt, paint, patin, pinta] -> myrrh
+[eusol, louse, ousel], ahigh -> crypt
+[eusol, louse, ousel], [ahing, anigh, hangi] -> crypt
+[eusol, louse, ousel], bigha -> crypt
+[eusol, louse, ousel], ghazi -> crypt
+[eusol, louse, ousel], laigh -> crypt
+guile, [halos, shoal, shola, solah] -> crypt
+guile, basho -> crypt
+guile, [dosha, odahs] -> crypt
+guile, [hokas, kohas, shako, sokah] -> crypt
+guile, homas -> crypt
+guile, noahs -> crypt
+guile, ohias -> crypt
+patio, lunes -> myrrh
+house, [algin, align, liang, ligan, linga] -> crypt
+house, agile -> crypt
+house, [agila, glial] -> crypt
+house, algid -> crypt
+house, [gilas, glias, sigla] -> crypt
+house, glaik -> crypt
+house, laigh -> crypt
+house, logia -> crypt
+house, ugali -> crypt
+house, wilga -> crypt
+glove, huias -> crypt
+[bogle, globe], huias -> crypt
+alive, sough -> crypt
+[ailed, eliad, ideal], sough -> crypt
+laugh, [eosin, noise] -> crypt
+laugh, bosie -> crypt
+laugh, eidos -> crypt
+laugh, hoise -> crypt
+laugh, owies -> crypt
+laugh, oxies -> crypt
+laugh, solei -> crypt
+[tulip, uplit], aeons -> myrrh
+[halos, shoal, shola, solah], guide -> crypt
+[halos, shoal, shola, solah], guise -> crypt
+[halos, shoal, shola, solah], fugie -> crypt
+[halos, shoal, shola, solah], gigue -> crypt
+dough, aisle -> crypt
+[loans, salon, sloan, solan], uptie -> myrrh
+[posit, topis], ulnae -> myrrh
+[viola, voila], eughs -> crypt
+piano, [lutes, tules] -> myrrh
+[glode, lodge, ogled], huias -> crypt
+[agues, usage], helio -> crypt
+[agues, usage], hillo -> crypt
+lunge, ohias -> crypt
+agile, houfs -> crypt
+agile, husos -> crypt
+agile, sough -> crypt
+[hoves, shove], ugali -> crypt
+[elops, lopes, olpes, poles, slope], tuina -> myrrh
+[lingo, login], hause -> crypt
+[meous, moues, mouse], laigh -> crypt
+[uveal, value], shogi -> crypt
+[bugle, bulge], ohias -> crypt
+[igloo, logoi], hause -> crypt
+[hones, hosen, shone], ugali -> crypt
+[hales, halse, heals, leash, selah, shale, sheal], fugio -> crypt
+[pents, spent], auloi -> myrrh
+[estop, pesto, poets, potes, stoep, stope, topes], inula -> myrrh
+omega, hilus -> crypt
+aisle, [ghoul, lough] -> crypt
+aisle, hough -> crypt
+aisle, [punto, puton] -> myrrh
+aisle, sough -> crypt
+[ghoul, lough], abies -> crypt
+[ghoul, lough], aegis -> crypt
+[ghoul, lough], ajies -> crypt
+[ghoul, lough], [amies, maise] -> crypt
+[ghoul, lough], [anise, isnae, saine] -> crypt
+[ghoul, lough], avise -> crypt
+[ghoul, lough], kaies -> crypt
+[ghoul, lough], seiza -> crypt
+[lapin, plain], touse -> myrrh
+[etuis, suite], nopal -> myrrh
+[laten, leant], pious -> myrrh
+opine, [latus, salut, sault, talus] -> myrrh
+[vogue, vouge], hails -> crypt
+weigh, aulos -> crypt
+[eosin, noise], tulpa -> myrrh
+guise, ahold -> crypt
+guise, [aloha, hallo, holla] -> crypt
+guise, [halon, lohan] -> crypt
+guise, haole -> crypt
+guise, omlah -> crypt
+[gnash, hangs, sangh], louie -> crypt
+[email, maile], sough -> crypt
+quash, logie -> crypt
+plait, ouens -> myrrh
+[howes, whose], ugali -> crypt
+[elint, enlit, inlet, intel, lenti], oupas -> myrrh
+aboil, eughs -> crypt
+[adios, aidos, dosai], leugh -> crypt
+aegis, hullo -> crypt
+[aghas, haggs, shags], louie -> crypt
+agios, [hules, shule] -> crypt
+agios, lehua -> crypt
+agios, leugh -> crypt
+[aglus, gulas, gusla], helio -> crypt
+[aglus, gulas, gusla], hoied -> crypt
+[aglus, gulas, gusla], hoise -> crypt
+[aglus, gulas, gusla], homie -> crypt
+agoge, hilus -> crypt
+[agone, genoa], hilus -> crypt
+aioli, eughs -> crypt
+aitus, [pelon, pleon] -> myrrh
+aizle, sough -> crypt
+[algum, almug, glaum, mulga], hoise -> crypt
+aloin, eughs -> crypt
+[amigo, imago], [hules, shule] -> crypt
+[anise, isnae, saine], [pluot, pluto, poult] -> myrrh
+[antes, etnas, nates, neats, stane, stean], poilu -> myrrh
+askoi, leugh -> crypt
+[astun, aunts, saunt, staun, tuans, tunas], loipe -> myrrh
+auloi, eughs -> crypt
+auloi, ghees -> crypt
+aulos, [gighe, heigh] -> crypt
+aviso, leugh -> crypt
+axile, sough -> crypt
+baghs, louie -> crypt
+[bahus, habus, subah, subha], logie -> crypt
+[bigos, biogs, gobis], lehua -> crypt
+bogie, [hauls, hulas, shaul] -> crypt
+[bogue, bouge], hails -> crypt
+[bohea, obeah], [gusli, iglus] -> crypt
+bouse, laigh -> crypt
+[dogie, geoid], [hauls, hulas, shaul] -> crypt
+[dolia, idola], eughs -> crypt
+[doseh, hosed, shoed], ugali -> crypt
+douse, laigh -> crypt
+[eloge, leggo], huias -> crypt
+[eloin, olein], [patus, sputa, stupa, tapus] -> myrrh
+[eloin, olein], saugh -> crypt
+[entia, tenia, tinea], loups -> myrrh
+eughs, folia -> crypt
+eughs, logia -> crypt
+faugh, solei -> crypt
+figos, lehua -> crypt
+fogie, [hauls, hulas, shaul] -> crypt
+fogle, huias -> crypt
+folie, saugh -> crypt
+fugal, hoise -> crypt
+fugle, ohias -> crypt
+gauds, helio -> crypt
+[gaums, magus, sagum], helio -> crypt
+[gauss, gugas], helio -> crypt
+gibus, haole -> crypt
+[gismo, misgo], lehua -> crypt
+gleis, mohua -> crypt
+globi, hause -> crypt
+gloze, huias -> crypt
+[glued, luged], ohias -> crypt
+[glues, gules, gusle, luges], ohias -> crypt
+glume, ohias -> crypt
+[goels, goles, loges, ogles, segol], haiku -> crypt
+[goels, goles, loges, ogles, segol], hinau -> crypt
+[goels, goles, loges, ogles, segol], huias -> crypt
+gojis, lehua -> crypt
+[gonia, ngaio], [hules, shule] -> crypt
+guano, [heils, leish, shiel] -> crypt
+[guans, sugan], helio -> crypt
+guids, haole -> crypt
+gulag, hoise -> crypt
+[gusli, iglus], haole -> crypt
+[gusli, iglus], hoaed -> crypt
+[gusli, iglus], hovea -> crypt
+[gusli, iglus], mahoe -> crypt
+hakus, logie -> crypt
+[hauds, sadhu], logie -> crypt
+haufs, logie -> crypt
+haugh, solei -> crypt
+[hauls, hulas, shaul], logie -> crypt
+[hauls, hulas, shaul], [ogive, vogie] -> crypt
+hauns, logie -> crypt
+hause, logia -> crypt
+hause, logie -> crypt
+helio, kagus -> crypt
+helio, quags -> crypt
+helio, saugh -> crypt
+helio, vagus -> crypt
+[helos, holes, hosel, sheol], ugali -> crypt
+hogan, [ileus, lieus] -> crypt
+[hoing, hongi, ohing], salue -> crypt
+hoise, jugal -> crypt
+hoise, ugali -> crypt
+[hokes, okehs], ugali -> crypt
+[homes, shmoe], ugali -> crypt
+[hoses, shoes], ugali -> crypt
+hoxes, ugali -> crypt
+huias, logie -> crypt
+huias, longe -> crypt
+[hules, shule], logia -> crypt
+[humas, musha], logie -> crypt
+ileal, sough -> crypt
+[ileus, lieus], ogham -> crypt
+[ileus, lieus], panto -> myrrh
+[inspo, opsin, pions, psion], lutea -> myrrh
+[inust, suint, units], olpae -> myrrh
+jehus, logia -> crypt
+jiaos, leugh -> crypt
+kaugh, solei -> crypt
+[kluge, kugel], ohias -> crypt
+laigh, ouens -> crypt
+laigh, souse -> crypt
+lehua, shogi -> crypt
+leugh, [oasis, ossia] -> crypt
+leugh, obias -> crypt
+leugh, ohias -> crypt
+[linos, lions, loins, noils], taupe -> myrrh
+logie, saugh -> crypt
+[looie, ollie], saugh -> crypt
+louie, pants -> myrrh
+louie, saugh -> crypt
+louis, [paten, tapen] -> myrrh
+[louns, nouls], pieta -> myrrh
+[lunet, unlet], psoai -> myrrh
+lupin, [stoae, toeas] -> myrrh
+moile, saugh -> crypt
+noule, [pitas, spait, stipa, tapis] -> myrrh
+noups, telia -> myrrh
+obeli, saugh -> crypt
+[oiled, oldie], saugh -> crypt
+oints, pelau -> myrrh
+paeon, [sluit, tulsi] -> myrrh
+punas, [teloi, toile] -> myrrh
+salue, shogi -> crypt
+saugh, solei -> crypt
+shogi, ulema -> crypt
+shogi, ulnae -> crypt
+solei, unapt -> myrrh
+solei, waugh -> crypt
+sough, walie -> crypt
+toise, ulpan -> myrrh
+
+These words will win wordle in the future, and satisfy the scenario:
+  on 2025-02-06 crypt
+  on 2026-07-27 myrrh
+
+These 7 words aren't scheduled to win, but satisfy the scenario:
+  cwtch
+  flyby
+  grrrl
+  gynny
+  phpht
+  skyfs
+  xylyl
+
+Some examples links for all 9 words
+https://wordlyze.crud.net/analyze/eughs,ixora,flyby (x2)
+https://wordlyze.crud.net/analyze/forge,huias,xylyl (x27)
+https://wordlyze.crud.net/analyze/pilot,urena,skyfs (x42)
+https://wordlyze.crud.net/analyze/alone,situp,myrrh (x55)
+https://wordlyze.crud.net/analyze/golem,huias,crypt (x207)
+https://wordlyze.crud.net/analyze/helix,oupas,gynny (x367)
+https://wordlyze.crud.net/analyze/pride,bayou,cwtch (x894)
+https://wordlyze.crud.net/analyze/quiet,savoy,grrrl (x1255)
+https://wordlyze.crud.net/analyze/cigar,youse,phpht (x2498)
